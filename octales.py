@@ -2,7 +2,8 @@
 # Name:        Conversion_Octale
 # Purpose:     Conversion Numerique
 #
-# Author:      Benito
+# Author:      Petit-Homme Ben-Jacques
+# E-Mail:      pbenjacques@gmail.com
 #
 # Created:     17-07-2019
 # Copyright:   (c) Benito 2019

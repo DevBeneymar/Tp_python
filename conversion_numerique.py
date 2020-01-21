@@ -2,6 +2,7 @@
 # Purpose Name:        Conversion_Numerique
 # 
 # Author:      Petit-Homme Ben-Jacques
+# E-Mail:      pbenjacques@gmail.com
 #
 # Created:     17-07-2019
 # Copyright:   (c) Beneymar 2019
