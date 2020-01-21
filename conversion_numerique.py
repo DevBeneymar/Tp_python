@@ -1,5 +1,5 @@
 #-------------------------------------------------------------------------------
-# Purpose Name:        Conversion_Numerique
+# Purpose Name:        Conversion_Numerique : de Decimal .....
 # 
 # Author:      Petit-Homme Ben-Jacques
 # E-Mail:      pbenjacques@gmail.com
