@@ -1,3 +1,12 @@
+#-------------------------------------------------------------------------------
+# Purpose Name:        Conversion_Numerique
+# 
+# Author:      Petit-Homme Ben-Jacques
+#
+# Created:     17-07-2019
+# Copyright:   (c) Beneymar 2019
+# Licence:     <your licence>
+#-------------------------------------------------------------------------------
 # from binaires import Conversion_en_binaire
 import binaires
 from octales import Conversion_en_Octal

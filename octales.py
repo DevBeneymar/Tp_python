@@ -1,3 +1,13 @@
+#-------------------------------------------------------------------------------
+# Name:        Conversion_Octale
+# Purpose:     Conversion Numerique
+#
+# Author:      Benito
+#
+# Created:     17-07-2019
+# Copyright:   (c) Benito 2019
+# Licence:     <your licence>
+#-------------------------------------------------------------------------------
 # Fonction Conversion en Octal
 
 def Conversion_en_Octal(n):

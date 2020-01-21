@@ -1,3 +1,13 @@
+#-------------------------------------------------------------------------------
+# Name:        Conversion_Hexadecimale
+# Purpose:     Conversion Numerique
+#
+# Author:      Benito
+#
+# Created:     17-07-2019
+# Copyright:   (c) Benito 2019
+# Licence:     <your licence>
+#-------------------------------------------------------------------------------
 # Fonction conversion en hexadecimal
 
 def Conversion_en_hexadecimal(n):
