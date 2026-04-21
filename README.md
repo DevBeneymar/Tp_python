@@ -13,9 +13,13 @@ Python 3.x
 
 👨‍💻 Auteur
 Ingénieur Ben-Jacques Petit-Homme
+
 Email: pbenjacques@gmail.com / benjacques.petithomme@esih.edu
+
 Tel : +50940870754 / +50948846143 / +50942003583
+
 Développeur & Analyste Programmeur
+
 https://www.linkedin.com/in/ben-jacques-petit-homme/
 
 📄 Licence
